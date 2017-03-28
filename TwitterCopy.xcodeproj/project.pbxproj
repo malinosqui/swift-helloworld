@@ -26,7 +26,7 @@
 		731E9C50C954E7EA226E0D06 /* Pods_TCC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TCC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A071D2141E8A075F002C74DD /* UserCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
 		A071D2161E8A107C002C74DD /* HomeDatasourceController+navbar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "HomeDatasourceController+navbar.swift"; sourceTree = "<group>"; };
-		A0AF58331E8845F4006EDC6F /* TCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A0AF58331E8845F4006EDC6F /* TwitterCopy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterCopy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0AF58361E8845F4006EDC6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0AF583D1E8845F4006EDC6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0AF58401E8845F4006EDC6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		A0AF582A1E8845F4006EDC6F = {
 			isa = PBXGroup;
 			children = (
-				A0AF58351E8845F4006EDC6F /* TCC */,
+				A0AF58351E8845F4006EDC6F /* TwitterCopy */,
 				A0AF58341E8845F4006EDC6F /* Products */,
 				8052D6A81FE188C76101C675 /* Pods */,
 				3F4CBC62174880B98DF91D4D /* Frameworks */,
@@ -80,12 +80,12 @@
 		A0AF58341E8845F4006EDC6F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A0AF58331E8845F4006EDC6F /* TCC.app */,
+				A0AF58331E8845F4006EDC6F /* TwitterCopy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A0AF58351E8845F4006EDC6F /* TCC */ = {
+		A0AF58351E8845F4006EDC6F /* TwitterCopy */ = {
 			isa = PBXGroup;
 			children = (
 				A0EA119F1E88B473003EC8FB /* View */,
@@ -97,6 +97,7 @@
 				A0AF583F1E8845F4006EDC6F /* LaunchScreen.storyboard */,
 				A0AF58421E8845F4006EDC6F /* Info.plist */,
 			);
+			name = TwitterCopy;
 			path = TCC;
 			sourceTree = "<group>";
 		};
@@ -130,9 +131,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A0AF58321E8845F4006EDC6F /* TCC */ = {
+		A0AF58321E8845F4006EDC6F /* TwitterCopy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A0AF58451E8845F4006EDC6F /* Build configuration list for PBXNativeTarget "TCC" */;
+			buildConfigurationList = A0AF58451E8845F4006EDC6F /* Build configuration list for PBXNativeTarget "TwitterCopy" */;
 			buildPhases = (
 				E6B968CCB058D020BF6BEBB3 /* [CP] Check Pods Manifest.lock */,
 				A0AF582F1E8845F4006EDC6F /* Sources */,
@@ -145,9 +146,9 @@
 			);
 			dependencies = (
 			);
-			name = TCC;
+			name = TwitterCopy;
 			productName = TCC;
-			productReference = A0AF58331E8845F4006EDC6F /* TCC.app */;
+			productReference = A0AF58331E8845F4006EDC6F /* TwitterCopy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -167,7 +168,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A0AF582E1E8845F4006EDC6F /* Build configuration list for PBXProject "TCC" */;
+			buildConfigurationList = A0AF582E1E8845F4006EDC6F /* Build configuration list for PBXProject "TwitterCopy" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -180,7 +181,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A0AF58321E8845F4006EDC6F /* TCC */,
+				A0AF58321E8845F4006EDC6F /* TwitterCopy */,
 			);
 		};
 /* End PBXProject section */
@@ -401,7 +402,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A0AF582E1E8845F4006EDC6F /* Build configuration list for PBXProject "TCC" */ = {
+		A0AF582E1E8845F4006EDC6F /* Build configuration list for PBXProject "TwitterCopy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A0AF58431E8845F4006EDC6F /* Debug */,
@@ -410,7 +411,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A0AF58451E8845F4006EDC6F /* Build configuration list for PBXNativeTarget "TCC" */ = {
+		A0AF58451E8845F4006EDC6F /* Build configuration list for PBXNativeTarget "TwitterCopy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A0AF58461E8845F4006EDC6F /* Debug */,

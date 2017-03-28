@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A0AF58321E8845F4006EDC6F"
-               BuildableName = "TCC.app"
-               BlueprintName = "TCC"
-               ReferencedContainer = "container:TCC.xcodeproj">
+               BuildableName = "TwitterCopy.app"
+               BlueprintName = "TwitterCopy"
+               ReferencedContainer = "container:TwitterCopy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A0AF58321E8845F4006EDC6F"
-            BuildableName = "TCC.app"
-            BlueprintName = "TCC"
-            ReferencedContainer = "container:TCC.xcodeproj">
+            BuildableName = "TwitterCopy.app"
+            BlueprintName = "TwitterCopy"
+            ReferencedContainer = "container:TwitterCopy.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A0AF58321E8845F4006EDC6F"
-            BuildableName = "TCC.app"
-            BlueprintName = "TCC"
-            ReferencedContainer = "container:TCC.xcodeproj">
+            BuildableName = "TwitterCopy.app"
+            BlueprintName = "TwitterCopy"
+            ReferencedContainer = "container:TwitterCopy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A0AF58321E8845F4006EDC6F"
-            BuildableName = "TCC.app"
-            BlueprintName = "TCC"
-            ReferencedContainer = "container:TCC.xcodeproj">
+            BuildableName = "TwitterCopy.app"
+            BlueprintName = "TwitterCopy"
+            ReferencedContainer = "container:TwitterCopy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
